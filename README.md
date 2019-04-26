@@ -1,6 +1,6 @@
-# wp-cli-mirai-boilerplate
+# wp-cli-mu-redirection-logs-cleaner
 
-WP-CLI boilerplate for wp-cli package and commands creation
+WP-CLI command to clean redirect and 404 logs
 
 ### 1.0
 Initial Release
