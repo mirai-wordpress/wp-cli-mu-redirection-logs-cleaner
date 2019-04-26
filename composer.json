@@ -1,0 +1,22 @@
+{
+  "name": "mirai-wordpress/wp-cli-mu-redirection-logs-cleaner",
+  "description": "Redirection and 404 logs cleaner",
+  "version": "1.0",
+  "type": "wp-cli-package",
+  "keywords": ["wp-cli", "wordpress", "multisite", "redirection logs", "logs cleaner"],
+  "homepage": "http://www.mirai.com",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Mirai DEV Team",
+      "email": "webdev@mirai.com",
+      "homepage": "http://www.mirai.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "files": ["redirection_logs_cleaner.php"]
+  }
+}
